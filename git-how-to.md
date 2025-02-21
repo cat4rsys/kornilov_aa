@@ -5,10 +5,7 @@
 If you want to make your first ssh-key you should:
 
 	1. Open your terminal on Linux.
-	2. Write a command 
-	```
-	ssh-keygen
-	```
+	2. Write a command ssh-keygen
 	If you want to specialise type of ssh key, you must use flag "-t"
 	3. Follow instructions for making your ssh-key.
 
