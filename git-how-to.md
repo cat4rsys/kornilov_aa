@@ -3,6 +3,7 @@
 ## Making new ssh-key
 
 If you want to make your first ssh-key you should:
+
 	1. Open your terminal on Linux.
 	2. Write a command 
 	```
